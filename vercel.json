@@ -21,7 +21,6 @@
     }
   ],
   "env": {
-    "DJANGO_SETTINGS_MODULE": "book_manager.settings",
-    "SECRET_KEY": "@vercel/secret"
+    "DJANGO_SETTINGS_MODULE": "book_manager.settings"
   }
 }
