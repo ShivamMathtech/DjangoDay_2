@@ -1,8 +1,0 @@
-Django>=4.2,<5.0
-gunicorn
-djangorestframework
-whitenoise
-psycopg2-binary  # If using PostgreSQL, remove if using SQLite
-mysqlclient  # If using MySQL, remove if using SQLite
-dj-database-url  # For database URL parsing in production
-python-dotenv  # For environment variable management
